@@ -33,9 +33,7 @@
                     "identifier": "113091000",
                     "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
                	},
-				{
-					"value": "MRI"
-				}
+				"value": "MRI"
 			}
         },
 		{
@@ -44,9 +42,7 @@
             	    "identifier": "ilx_0381893",
                     "identifierSource":"http://uri.interlex.org/base/ilx_0381893"
                 },
-				{
-					"value": "MRI"
-				}
+				"value": "MRI"
 			}
         }
     ],
@@ -217,6 +213,10 @@
         },	
         {
             "@type": "Annotation",
+            "identifier": {
+                "identifier": "113091000",
+                "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+            },
             "value": "MRI"
         }
     ],
